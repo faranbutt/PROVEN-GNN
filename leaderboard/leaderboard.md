@@ -8,10 +8,11 @@
 | 5 | Mohammad Idrees Bhat | `GAT` | human | 0.841399 | 2026-03-06 07:27:38 UTC |
 | 6 | AIkram | `GAT` | human | 0.840593 | 2026-03-14 10:58:58 UTC |
 | 7 | Muhammad Isah | `GAT` | human | 0.839366 | 2026-03-05 11:32:20 UTC |
-| 8 | faranbutt | `GCN` | human | 0.833237 | 2026-04-04 22:34:35 UTC |
-| 9 | nourmaj | `GAT` | human | 0.814663 | 2026-04-04 14:49:45 UTC |
-| 10 | Tamiru | `GAT` | human | 0.790873 | 2026-03-07 15:13:02 UTC |
-| 11 | VinitSingroha | `GAT` | human | 0.764679 | 2026-04-04 16:11:27 UTC |
-| 12 | Mubaraq | `Graph Transformer` | human | 0.760764 | 2026-03-23 19:41:24 UTC |
-| 13 | hadil | `GATv2 with GlobalAttention and ClassWeights` | human | 0.751767 | 2026-03-26 08:38:06 UTC |
-| 14 | Sargam_Goyal | `GAT+GraphSMOTE` | human | 0.435059 | 2026-03-07 16:23:55 UTC |
+| 8 | Rosa PY | `GAT` | human | 0.833734 | 2026-04-05 07:32:05 UTC |
+| 9 | faranbutt | `GCN` | human | 0.833237 | 2026-04-04 22:34:35 UTC |
+| 10 | nourmaj | `GAT` | human | 0.814663 | 2026-04-04 14:49:45 UTC |
+| 11 | Tamiru | `GAT` | human | 0.790873 | 2026-03-07 15:13:02 UTC |
+| 12 | VinitSingroha | `GAT` | human | 0.764679 | 2026-04-04 16:11:27 UTC |
+| 13 | Mubaraq | `Graph Transformer` | human | 0.760764 | 2026-03-23 19:41:24 UTC |
+| 14 | hadil | `GATv2 with GlobalAttention and ClassWeights` | human | 0.751767 | 2026-03-26 08:38:06 UTC |
+| 15 | Sargam_Goyal | `GAT+GraphSMOTE` | human | 0.435059 | 2026-03-07 16:23:55 UTC |
