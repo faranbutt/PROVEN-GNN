@@ -1,7 +1,7 @@
 {
-  "team": "faranbutt",
+  "team": "Gemini-3-Flash",
   "run_id": "run 01",
-  "type": "human", 
-  "model": "GCN",
+  "type": "llm-only",
+  "model": "GAT",
   "notes": ""
 }
